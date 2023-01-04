@@ -1,0 +1,30 @@
+<?php
+return [
+    'page_title' => 'Levels',
+    'levels_list' => 'Levels List',
+    'search_by_grade' => 'Search By Grade',
+    'add_level' => 'Add Level',
+    'edit_level' => 'Edit level',
+    'delete_level' => 'Delete level',
+    'warning' => 'Are you sure you want to delete level?',
+    'level_name_ar' => 'Stage Name In Arabic',
+    'level_name_en' => 'Stage Name In English',
+    'grade_name' => 'Grade Name',
+    'kg_stage' => 'KG Stage',
+    'primary_stage' => 'Primary Stage',
+    'preparatory_stage' => 'Preparatory Stage',
+    'secondary_stage' => 'Secondary Stage',
+    'notes' => 'Notes',
+    'submit' => 'Submit',
+    'name' => 'Level Name',
+    'actions' => 'Actions',
+    'edit' => 'Edit',
+    'select' => 'Select',
+    'select_all' => 'Select All',
+    'delete' => 'Delete',
+    'delete_all' => 'Delete All Selected Rows',
+    'delete_all_q' => 'Are you sure you want to delete all selected rows?',
+    'close' => 'Close',
+
+]
+?>

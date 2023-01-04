@@ -1,0 +1,28 @@
+<?php
+return [
+    'page_title' => 'حضور الطلاب',
+    'students_list' => 'قائمة حضور وغياب الطلاب',
+    'date_today' => 'تاريخ اليوم',
+    'student_name' => 'إسم الطالب',
+    'grade' => 'المرحلة الدراسية',
+    'level' => 'المستوي',
+    'section' => 'الفصل',
+    'teacher' => 'المعلم',
+    'attendance_date' => 'تاريخ الحضور',
+    'status' => 'الحالة',
+    'actions' => 'العمليات',
+    'active' => 'نشط',
+    'inactive' => 'غير نشط',
+    'attend' => 'حضور',
+    'absent' => 'غياب',
+    'edit_attendance' => 'تعديل الغياب الحضور',
+    'attendance_report' => 'تقارير الحضور والغياب',
+    'search_info' => 'معلومات البحث',
+    'all' => 'الكل',
+    'start_date' => 'تاريخ البداية',
+    'end_date' => 'تاريخ النهاية',
+    'from_date' => ' : من تاريخ',
+    'to_date' => ' : إلي تاريخ',
+    'date' => 'التاريخ',
+]
+?>
